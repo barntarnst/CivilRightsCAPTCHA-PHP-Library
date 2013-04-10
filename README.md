@@ -18,7 +18,7 @@ $crccaptcha = new civilrightscaptcha();
 echo $crccaptcha->show();
 ```
 
-A form with the captcha could look something like this.
+A form with the CAPTCHA could look something like this.
 
 ```html
 <html>
@@ -60,6 +60,5 @@ else {
 ```
 
 When the user submits the form, two fields (crc_captcha & crc_sessid) are also submitted from the captcha. Both these have to be used as parameters to the check function. The check function returns a boolean TRUE if the answer is correct and FALSE if it is not. 
-
 
 see http://captcha.civilrightsdefenders.org for more information.
