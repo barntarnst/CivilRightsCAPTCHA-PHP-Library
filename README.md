@@ -5,9 +5,9 @@ PHP library for Civil Rights Defenders CAPTCHA. Using a library is the simplest 
 
 There is a Wiki at http://captcha.civilrightsdefenders.org.
 
-The package includes the library and an example page (with a version of jQuery) to demonstrate how to use it. The Civil Rights CAPTCHA depends on the javascript library jQuery.
+The package includes the library and an example page to demonstrate how to use it. The Civil Rights CAPTCHA depends on the javascript library jQuery.
 
-## Step 1: Displaying the CATPCHA
+## Step 1: Displaying the CAPTCHA
 To display the captcha in your html form, simply echo the show() function at the place in the &lt;form&gt; where you want the captcha to display.
 
 ```html
@@ -60,3 +60,6 @@ else {
 ```
 
 When the user submits the form, two fields (crc_captcha & crc_sessid) are also submitted from the captcha. Both these have to be used as parameters to the check function. The check function returns a boolean TRUE if the answer is correct and FALSE if it is not. 
+
+
+see http://captcha.civilrightsdefenders.org for more information.
