@@ -2,7 +2,7 @@
 /*
  * This is an example of how to use the Civil Right Defenders Captcha with the PHP Library.
  *    - Documentation and latest version
- *          http://civilrightsdefenders.org/captcha/
+ *          http://captcha.civilrightsdefenders.org
  *
  *  Remember to include jQuery!
  *

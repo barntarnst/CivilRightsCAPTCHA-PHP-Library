@@ -2,7 +2,7 @@
 /*
  * This is a PHP library that handles calling Civil Right Defenders Captcha.
  *    - Documentation and latest version
- *          http://civilrightsdefenders.org/captcha/
+ *          http://captcha.civilrightsdefenders.org
  *
  * Copyright (c) 2013 Civil Right Defenders
  * AUTHORS:
